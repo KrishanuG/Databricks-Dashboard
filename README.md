@@ -14,7 +14,7 @@ into a Databricks workspace to view it.
 
 ```text
 dashboards/Transaction Dashboard.lvdash.json
-
+```
 ## View Dashboard via Databricks Repos (Recommended)
 
 1. Open **Databricks Workspace**
